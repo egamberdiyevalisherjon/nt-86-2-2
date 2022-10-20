@@ -7,6 +7,7 @@
 
 body {
   font-family: sans-serif;
+  background-color: aqua;
 }
 
 a {
@@ -34,6 +35,18 @@ h1 {
   color: red;
   background-color: black;
 }
+<<<<<<< HEAD
 .rasm{
   width: 600px;
 }
+=======
+h2 {
+  background-color: aqua;
+  font-size: 35px;
+  color: green;}
+.box{background-color:aquamarine;
+  font-size: 20px;
+  font-family: sans-serif;
+
+}
+>>>>>>> 61b30d728db474302423a8986efc53197ed22416
