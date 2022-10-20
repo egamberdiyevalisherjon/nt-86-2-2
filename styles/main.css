@@ -38,5 +38,9 @@ h1 {
 h2 {
   background-color: aqua;
   font-size: 35px;
-  color: green;
+  color: green;}
+.box{background-color:aquamarine;
+  font-size: 20px;
+  font-family: sans-serif;
+
 }
