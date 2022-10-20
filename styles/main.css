@@ -34,3 +34,8 @@ h1 {
   color: red;
   background-color: black;
 }
+h2 {
+  background-color: aqua;
+  font-size: 35px;
+  color: green;
+}
