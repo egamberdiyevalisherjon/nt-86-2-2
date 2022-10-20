@@ -34,3 +34,11 @@ h1 {
   color: red;
   background-color: black;
 }
+
+
+.box{
+  font-style: italic;
+  font-size: 30px;
+  background-color: aqua;
+  
+}
