@@ -37,29 +37,9 @@ h1 {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-.box{
-  font-style: italic;
-  font-size: 30px;
-  background-color: aqua;
-  
+.rasm{
+  width: 600px;
 }
-
-h2 {
-  background-color: aqua;
-  font-size: 35px;
-  color: green;}
 
 .box{background-color:aquamarine;
   font-size: 20px;
