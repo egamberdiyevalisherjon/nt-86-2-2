@@ -45,6 +45,9 @@ h1 {
   width: 600px;
 }
 
+.rasm{
+  width: 600px;
+}
 h2 {
   background-color: aqua;
   font-size: 35px;
@@ -102,6 +105,4 @@ h2 {
   border-bottom: 2px solid rgb(255, 252, 252);
   color: crimson;
 }
-
-
 
