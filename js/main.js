@@ -3,7 +3,7 @@ window.addEventListener("DOMContentLoaded", () => {
     const tabs = document.querySelectorAll(".tabheader_item");
     const tabContents = document.querySelectorAll(".tabContainer");
    let userName =  prompt("Ismingni kirit!")
-   console.log(userName + " Yaxshi bola ekansan gap yo");
+   alert(userName + "Yaxshi bola")
     function hideTabContent() {
         tabContents.forEach((item) => {
             item.style.display = "none";
