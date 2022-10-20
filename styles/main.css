@@ -7,6 +7,7 @@
 
 body {
   font-family: sans-serif;
+  background-color: aqua;
 }
 
 a {
@@ -34,7 +35,15 @@ h1 {
   color: red;
   background-color: black;
 }
+<<<<<<< HEAD
 .vohob {
   background-color: blue;
   color: black;
 }
+=======
+.box{background-color:aquamarine;
+  font-size: 20px;
+  font-family: sans-serif;
+
+}
+>>>>>>> 70063475838d71f6df85e86f8ed62f8cf2d48b9c
