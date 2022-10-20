@@ -37,6 +37,7 @@ h1 {
 }
 
 
+
 .rasm{
   width: 600px;
 }
@@ -47,6 +48,7 @@ h1 {
 
 
 }
+
 
 
 .tabheader__container {
@@ -89,17 +91,5 @@ h1 {
 
 .tabheader .tabheader_item__active {
   border-bottom: 2px solid rgb(255, 252, 252);
-  color: crimson;
-}
-
-
-
-
-
-
-
-
-
-
-
+  color: crimson;}
 
