@@ -35,6 +35,9 @@ h1 {
   color: red;
   background-color: black;
 }
+.rasm{
+  width: 600px;
+}
 h2 {
   background-color: aqua;
   font-size: 35px;
