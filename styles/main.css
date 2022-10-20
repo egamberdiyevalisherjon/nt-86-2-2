@@ -35,6 +35,16 @@ h1 {
   color: red;
   background-color: black;
 }
+
+.vohob {
+  background-color: blue;
+  color: black;
+}
+
+.rasm{
+  width: 600px;
+}
+
 .rasm{
   width: 600px;
 }
@@ -47,6 +57,12 @@ h2 {
   font-family: sans-serif;
 
 }
+
+.h4 {
+  color: black;
+}
+
+
 .tabheader__container {
   display: flex;
   justify-content: space-between;
@@ -89,5 +105,4 @@ h2 {
   border-bottom: 2px solid rgb(255, 252, 252);
   color: crimson;
 }
-
 
