@@ -40,14 +40,6 @@ h1 {
 
 
 
-.box{background-color:aquamarine;
-  font-size: 20px;
-  font-family: sans-serif;
-
-}
-
-
-
 
 
 
@@ -62,4 +54,15 @@ h1 {
   font-size: 30px;
   background-color: aqua;
   
+}
+
+h2 {
+  background-color: aqua;
+  font-size: 35px;
+  color: green;}
+
+.box{background-color:aquamarine;
+  font-size: 20px;
+  font-family: sans-serif;
+
 }
