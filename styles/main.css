@@ -35,11 +35,9 @@ h1 {
   color: red;
   background-color: black;
 }
-<<<<<<< HEAD
 .rasm{
   width: 600px;
 }
-=======
 h2 {
   background-color: aqua;
   font-size: 35px;
@@ -49,9 +47,6 @@ h2 {
   font-family: sans-serif;
 
 }
-<<<<<<< HEAD
->>>>>>> 61b30d728db474302423a8986efc53197ed22416
-=======
 .tabheader__container {
   display: flex;
   justify-content: space-between;
@@ -96,4 +91,3 @@ h2 {
 }
 
 
->>>>>>> 1d235ed896b2bd14cfb4f07a1ec0aecaa331ed24
