@@ -2,7 +2,8 @@ window.addEventListener("DOMContentLoaded", () => {
     const tabParent = document.querySelector(".tabheader__items");
     const tabs = document.querySelectorAll(".tabheader_item");
     const tabContents = document.querySelectorAll(".tabContainer");
-
+   let userName =  prompt("Ismingni kirit!")
+   console.log(userName + " Yaxshi bola ekansan gap yo");
     function hideTabContent() {
         tabContents.forEach((item) => {
             item.style.display = "none";
