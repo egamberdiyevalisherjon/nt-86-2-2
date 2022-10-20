@@ -49,4 +49,51 @@ h2 {
   font-family: sans-serif;
 
 }
+<<<<<<< HEAD
 >>>>>>> 61b30d728db474302423a8986efc53197ed22416
+=======
+.tabheader__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
+
+.main__class {
+  background-color: black;
+  color: white;
+}
+
+.tabheader h3 {
+  font-size: 28px;
+  margin: 40px 0;
+  color: crimson;
+}
+
+.tabheader .tabheader_item {
+  margin: 25px 0;
+  font-size: 20px;
+  letter-spacing: 2px;
+  cursor: pointer;
+  padding: 5px;
+}
+.tabheader .tabheader_item:hover {
+  background-color: brown;
+  
+}
+
+.tabContainers .tabContainer {
+  margin: 35px 0;
+  font-size: 20px;
+  letter-spacing: 2px;
+  width: 650px;
+  text-align: center;
+}
+
+.tabheader .tabheader_item__active {
+  border-bottom: 2px solid rgb(255, 252, 252);
+  color: crimson;
+}
+
+
+>>>>>>> 1d235ed896b2bd14cfb4f07a1ec0aecaa331ed24
